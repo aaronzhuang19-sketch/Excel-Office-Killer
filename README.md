@@ -34,8 +34,8 @@
 #### 1. 环境准备
 你需要安装 Python 3.10+ 和以下依赖库：
 ```bash
-git clone [https://github.com/你的用户名/你的仓库名.git](https://github.com/你的用户名/你的仓库名.git)
-cd 你的仓库名
+git clone [https://github.com/aaronzhuang19-sketch/Excel-Office-Killer.git]
+cd Excel-Office-Killer
 pip install -r requirements.txt
 2. 运行源码
 Bash
